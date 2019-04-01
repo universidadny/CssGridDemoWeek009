@@ -1,4 +1,4 @@
 .site{
     display: grid;
-    gri-template-columns: 2fr 1fr 1fr;
+    gri-template-columns: 1fr 1fr;
 }
