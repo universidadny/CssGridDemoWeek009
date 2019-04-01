@@ -1,5 +1,18 @@
 .site{
     display: grid;
-    gri-template-columns: 1fr 1fr;
-    drid-template-row: 150px auto 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-row: 150px auto 1fr 1fr;
+}
+
+.masthead{
+    grid-column:1/3;
+    grid-row: 1/2;
+}
+.page-title{
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+sidebar{
+    grid-column: 1/2:\;
+    grid-row:2/4;
 }
