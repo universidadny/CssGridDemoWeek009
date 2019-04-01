@@ -1,4 +1,5 @@
 .site{
     display: grid;
     gri-template-columns: 1fr 1fr;
+    drid-template-row: 150px auto 1fr;
 }
