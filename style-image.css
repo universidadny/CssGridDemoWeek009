@@ -1,0 +1,13 @@
+.feature-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.feature-image{
+    margin: 1em 0;
+}
+.image-caption{
+    font-size: 80%;
+    padding: .7em 1em;
+    background: 
+}
